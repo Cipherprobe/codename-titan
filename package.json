@@ -1,0 +1,23 @@
+{
+  "name": "codename-titan",
+  "version": "1.0.0",
+  "description": "A Discord.js bot in development, placed on Github to get public help.\r ## I only invite trusted people and trusted coders.",
+  "main": "codenametitan.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cipherprobe/codename-titan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cipherprobe/codename-titan/issues"
+  },
+  "homepage": "https://github.com/Cipherprobe/codename-titan#readme"
+}

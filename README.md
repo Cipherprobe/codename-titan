@@ -1,3 +1,4 @@
-# Codename Titan
-A Discord.js bot in development, placed on Github to get public help.
-## I only invite trusted people and trusted coders. 
+# Hyperion
+
+Hyperion is a bot that is currently in development. The code is open-source and will be updated every week.
+## Completely free and open source bot in development :)
